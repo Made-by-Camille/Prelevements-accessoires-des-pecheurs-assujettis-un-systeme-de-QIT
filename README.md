@@ -11,7 +11,7 @@ tentant ainsi, par le biais de divers instruments,
 d’éviter la disparition de certaines espèces. 
 
 Le système de quotas individuels transférables (QIT) est l’une de ces méthodes. 
-Ces quotas sont imposés par l’Etat aux pêcheries et ont pour objectif de réguler, pour chaque espèce de poissons, la
+Ces quotas sont imposés par certains états aux pêcheries et ont pour objectif de réguler, pour chaque espèce de poissons, la
 quantité qu’elles peuvent prélever. 
 Les pêcheurs peuvent par la suite s’échanger ces quotas pour les adapter aux quantités de poissons qu’ils souhaitent pêcher.
 
