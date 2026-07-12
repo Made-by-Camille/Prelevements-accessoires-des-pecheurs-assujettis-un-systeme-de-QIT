@@ -1,4 +1,4 @@
-Travail d'analyse bibliographique réalisé en 2016, dans le cadre de mon master 1, "Economie de l'environnement" à l'Université de Bordeaux.
+Travail d'analyse bibliographique réalisé en 2016, dans le cadre de la première année de Master "Economie de l'environnement" à l'Université de Bordeaux.
 
 L’analyse suivante se base sur les écrits de :
 Elliston L., Kompas T. et Bosch C.
